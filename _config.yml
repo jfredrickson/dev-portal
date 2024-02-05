@@ -1,13 +1,12 @@
 # Site settings
-title: API Documentation
-email: your-email@domain.com
-description: >
-  Documentation for [company name]'s' [name of API].
+title: Developer Portal
+email: jeff@ejeff.org
+description: Documentation for Sports World Central's Fantasy Football API.
 
-baseurl: "/mvp-template" # the subpath of your site, e.g. /blog/
-url: https://launchany.github.io/mvp-template # the base hostname & protocol for your site
-git_address: https://github.com/launchany/mvp-template
-git_edit_address: https://github.com/launchany/mvp-template/blob/gh-pages
+baseurl: "/dev-portal" # the subpath of your site, e.g. /blog/
+url: https://jfredrickson.github.io # the base hostname & protocol for your site
+git_address: https://github.com/jfredrickson/dev-portal
+git_edit_address: https://github.com/jfredrickson/dev-portal/blob/gh-pages
 
 # Theme options from https://bootswatch.com/
 # comment-out to use default Bootstrap
